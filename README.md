@@ -1,10 +1,11 @@
 ## 👋🏻 Evaldo de Souza Lima
 ♊ 1992 - EEAER - Especialist in Electronic</br>
-♊ 1992 -> 2008 - Many course in Electronic Area</br>
+♊ 1992 -> 2008 - Many courses in Electronic Area and IT</br>
 ♊ 2008</br>
 💻 Licenciatura em Computação [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
 ♊ 2011</br>
 💻 Pós graduação em Engenharia de Sistemas [Postgraduate degree in Systems Engineering] - [ESAB].</br>
+♊ 2012-2023 -> More courses and projects</br>
 ♊ 2024</br>
 💻 Pós graduação em Inteligência Artificial [Postgraduate Degree in IA] - [Universidade Focus].</br>
 🏠 I’m currently living in Brasília - DF , Brazil 🇧🇷. <br/>
