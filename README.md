@@ -21,23 +21,19 @@
 <table>
   <tbody align="left">
     <tr>
-      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
       </td>
-      <td><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-30A3DC?style=for-the-badge&logo=facebook&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><a href="https://t.me/limainfo_gmail"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
       </td>
-      <td><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
       </td>  
     </tr>
     <tr>
-      <td><img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-30A3DC?style=for-the-badge&logo=gitlab&logoColor=orange">
+      <td><a href="https://wa.me/061992338262"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=light-green"></a>
       </td>
-      <td><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=light-green">
+      <td><a href="mailto:limainfo@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=red"></a>
       </td>
-      <td><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=red">
-      </td>
-      <td><img align="center" alt="Perfil DIO" src="https://img.shields.io/badge/Perfil%20DIO-30A3DC?style=for-the-badge&logo=perfildio&logoColor=red">
+      <td><a href="https://www.dio.me/users/limainfo"><img align="center" alt="Perfil DIO" src="https://img.shields.io/badge/Perfil%20DIO-30A3DC?style=for-the-badge&logo=perfildio&logoColor=red"></a>
       </td>
     </tr>
   </tbody>
