@@ -21,11 +21,11 @@
 <table>
   <tbody align="left">
     <tr>
-      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;</a>
+      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
-      <td><a href="https://t.me/limainfo_gmail"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+      <td><a href="https://t.me/limainfo_gmail"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
-      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>  
     </tr>
     <tr>
