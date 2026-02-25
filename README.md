@@ -1,4 +1,55 @@
 ## 👋🏻 Evaldo de Souza Lima
+## 💼 Recent Professional Experience
+
+### 🏢 Senior Software Engineer — FCAMARA / BULLLA  
+📅 Mar 2025 — Oct 2025  
+
+After retiring from the Brazilian Air Force (FAB), I worked as a Senior Developer on large-scale enterprise projects.
+
+**Technologies & Responsibilities:**
+
+- Java + Spring Boot Microservices
+- React Frontend Applications
+- Google Cloud Platform (GCP)
+- Pub/Sub Event-Driven Architecture
+- Redis Caching Layer
+- REST APIs and Distributed Systems
+- Cloud-native deployments
+- Performance optimization and scalability
+- Integration between multiple enterprise systems
+
+---
+
+### 🏢 Senior Systems Analyst / Developer — HITSS (CELEPAR & SASCAR)  
+📅 Nov 2025 — Present  
+
+Currently working on government-level enterprise systems for the State of Paraná.
+
+**Technologies & Responsibilities:**
+
+- Java Enterprise Applications
+- JBoss / WildFly Application Servers
+- Legacy modernization and maintenance
+- PostgreSQL and Oracle databases
+- System integration and data consistency corrections
+- Performance tuning and troubleshooting
+- Production support for critical systems
+- Software engineering and architecture improvements
+
+---
+
+## 🎓 Postgraduate — Information Security  
+📍 Universidade Focus  
+📅 May 2025 — Feb 2026  
+
+Specialization focused on:
+
+- Cybersecurity fundamentals
+- Data protection and LGPD compliance
+- Digital forensics
+- Secure systems architecture
+- Risk management and governance
+- 
 ♊ 1992 - EEAER - Specialist in Electronic</br>
 ♊ 1992 -> 2008 - Many courses in Electronic Area and IT</br>
 ♊ 2008</br>
