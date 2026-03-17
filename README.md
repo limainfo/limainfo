@@ -1,109 +1,104 @@
-## 👋🏻 Evaldo de Souza Lima
-## 💼 Recent Professional Experience
-
-### 🏢 Senior Software Engineer — FCAMARA / BULLLA  
-📅 Mar 2025 — Oct 2025  
-
-After retiring from the Brazilian Air Force (FAB), I worked as a Senior Developer on large-scale enterprise projects.
-
-**Technologies & Responsibilities:**
-
-- Java + Spring Boot Microservices
-- React Frontend Applications
-- Google Cloud Platform (GCP)
-- Pub/Sub Event-Driven Architecture
-- Redis Caching Layer
-- REST APIs and Distributed Systems
-- Cloud-native deployments
-- Performance optimization and scalability
-- Integration between multiple enterprise systems
+## 👋🏻 Evaldo de Souza Lima  
+### Senior Software Engineer | Systems Analyst | Government & Enterprise Systems
 
 ---
+
+## 💼 Professional Experience
 
 ### 🏢 Senior Systems Analyst / Developer — HITSS (CELEPAR & SASCAR)  
 📅 Nov 2025 — Present  
 
-Currently working on government-level enterprise systems for the State of Paraná.
+Currently working on mission-critical government systems for the State of Paraná, focused on stability, data integrity and legacy modernization.
 
-**Technologies & Responsibilities:**
-
-- Java Enterprise Applications
-- JBoss / WildFly Application Servers
-- Legacy modernization and maintenance
-- PostgreSQL and Oracle databases
-- System integration and data consistency corrections
-- Performance tuning and troubleshooting
-- Production support for critical systems
-- Software engineering and architecture improvements
+**Key Responsibilities:**
+- Maintenance and evolution of large-scale legacy systems
+- Java Enterprise (JBoss / WildFly)
+- PostgreSQL & Oracle (data consistency and correction)
+- Troubleshooting and performance tuning in production
+- System integration across multiple domains
+- Software architecture improvements
 
 ---
 
-## 🎓 Postgraduate — Information Security  
-📍 Universidade Focus  
+### 🏢 Senior Software Engineer — FCAMARA / BULLLA  
+📅 Mar 2025 — Oct 2025  
+
+Worked on scalable enterprise solutions using modern cloud-native architecture.
+
+**Key Contributions:**
+- Microservices with Java + Spring Boot
+- React-based frontends
+- Event-driven architecture with Pub/Sub
+- Redis caching and performance optimization
+- Distributed systems and integrations
+- Deployment in Google Cloud Platform (GCP)
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎓 MBA (In Progress) — Software Quality Management  
+📍 Universidade Pitágoras Unopar Anhanguera  
+📅 Feb 2026 — Dec 2026  
+
+- Focus on software quality, testing, governance and process improvement  
+- Emphasis on quality metrics, engineering practices and continuous improvement :contentReference[oaicite:2]{index=2}  
+
+---
+
+### 🎓 Postgraduate — Information Security (Completed)  
+📍 Faculdade Focus  
 📅 May 2025 — Feb 2026  
 
-Specialization focused on:
+- Cybersecurity, LGPD and data protection  
+- Digital forensics and secure architecture  
+- Risk management and governance  
+- Big Data and security applied to enterprise systems :contentReference[oaicite:3]{index=3}  
 
-- Cybersecurity fundamentals
-- Data protection and LGPD compliance
-- Digital forensics
-- Secure systems architecture
-- Risk management and governance
-- 
-♊ 1992 - EEAER - Specialist in Electronic</br>
-♊ 1992 -> 2008 - Many courses in Electronic Area and IT</br>
-♊ 2008</br>
-💻 Licenciatura em Computação [Bachelor's Degree in Computing] - [Universidade Estadual do Amazonas](https://cursos2.uea.edu.br/index.php?dest=info&curso=72).</br>
-♊ 2011</br>
-💻 Pós graduação em Engenharia de Sistemas [Postgraduate degree in Systems Engineering] - [ESAB].</br>
-♊ 2012-2023 -> More courses and projects</br>
-♊ 2024</br>
-💻 Pós graduação em Inteligência Artificial [Postgraduate Degree in IA] - [Universidade Focus].</br>
-🏠 I’m currently living in Brasília - DF , Brazil 🇧🇷. <br/>
-🔭 I’m looking to improve myself and solve problems around me.<br/>
-👄 I speak Portuguese and English.</br>
-💬 Trying to learn Greek and Hebraic. `trying my best`<br/>
-👥 I am a startup enthusiast, love to talk about new projects and real problems.</br> 
-👽 People consider me a proactive, creative guy and a problem solver .</br>
-🚪 Always open to new challenges and projects.</br></br>
+---
 
+### 🎓 Academic Background
 
-## :phone: Conecte-se comigo
-<table>
-  <tbody align="left">
-    <tr>
-      <td><a href="https://www.linkedin.com/in/evaldo-lima-175067219/"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-30A3DC?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td><a href="https://t.me/limainfo_gmail"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-30A3DC?style=for-the-badge&logo=telegram&logoColor=blue"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td><a href="https://github.com/limainfo"><img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-30A3DC?style=for-the-badge&logo=github&logoColor=black"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>  
-    </tr>
-    <tr>
-      <td><a href="https://wa.me/061992338262"><img align="center" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-30A3DC?style=for-the-badge&logo=whatsapp&logoColor=light-green"></a>
-      </td>
-      <td><a href="mailto:limainfo@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-30A3DC?style=for-the-badge&logo=gmail&logoColor=red"></a>
-      </td>
-      <td><a href="https://www.dio.me/users/limainfo"><img align="center" alt="Perfil DIO" src="https://img.shields.io/badge/Perfil%20DIO-30A3DC?style=for-the-badge&logo=perfildio&logoColor=red"></a>
-      </td>
-    </tr>
-  </tbody>
-</table></br>
+- 💻 Bachelor's Degree in Computing — Universidade do Estado do Amazonas (UEA)  
+- 💻 Postgraduate in Systems Engineering — ESAB  
+- 💻 Postgraduate in Artificial Intelligence — Faculdade Focus  
 
-## :expressionless: Soft Skills
-**&nbsp;&nbsp;&nbsp;&nbsp;1.**   Curiosidade [**Curiosity**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;2.**   Perfil Análitico [**Analytical Profile**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;3.**   Ivestigativo [**Investigative**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;4.**   Fácil Adaptabilidade [**Easy Adaptability**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;5.**   Confiabilidade [**Reliability**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;6.**   Aprendizado Contínuo [**Continuous Learning**]</br></br>
-**&nbsp;&nbsp;&nbsp;&nbsp;7.**   Trabalho em equipe [**Teamwork**]</br></br>
-</br>
+---
 
-## 💼 Experiência Profissional (Hard Skills)
+## 🚀 About Me
 
-Durante os anos, tive a oportunidade de atuar desde a infraestrutura (manutenção de computadores, conexão de redes, configuração de roteadores, switches e servidores Windows Server e Linux) até o desenvolvimento de sistemas complexos (DBA, Engenharia de Software, POO, etc). </br>
-[Over the years, I have had the opportunity to work in everything from infrastructure (computer maintenance, network connections, router, switch and Windows Server and Linux server configuration) to the development of complex systems (DBA, Software Engineering, OOP, etc.).]
+- 🇧🇷 Based in Brasília - DF  
+- 🧠 Strong analytical and problem-solving mindset  
+- ⚙️ Experience from infrastructure to enterprise software engineering  
+- 🔄 Continuous learning focused on architecture, quality and scalability  
+- 🌐 Fluent in Portuguese and English  
+
+---
+
+## 🛠️ Core Skills
+
+### Backend & Architecture
+- Java (Spring Boot, JEE)
+- Microservices & Event-Driven Architecture
+- REST APIs & Distributed Systems
+- Performance Optimization
+
+### Frontend
+- Angular / React
+- TypeScript / JavaScript
+
+### Databases
+- PostgreSQL, Oracle, MySQL
+- Data correction, migration and performance tuning
+
+### DevOps & Cloud
+- GCP, Azure
+- Docker (basic usage)
+- CI/CD concepts
+
+---
+
+## 🧩 Technical Stack
 
 ### 1.   Linguagens de Marcação e Estilo [Markup and Style Languages]
 <table>
@@ -328,35 +323,42 @@ Durante os anos, tive a oportunidade de atuar desde a infraestrutura (manutenç�
 </table>
 
 
+---
 
+## 📌 Projects Highlights
 
-### 9.   Certificações em andamento [Certifications in progress]
-<table>
-  <tbody align="left">
-    <tr>
-      <td>
-         <img align="center" alt="Java SE 11" src="https://img.shields.io/badge/java-%2330A3DC.svg?style=for-the-badge&logo=openjdk&logoColor=orange">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td>
-         <img align="center" alt="Linux Essentials" src="https://img.shields.io/badge/linux-%2330A3DC.svg?style=for-the-badge&logo=linux&logoColor=darkblue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td>
-         <img align="center" alt="Azure" src="https://img.shields.io/badge/azure-%2330A3DC.svg?style=for-the-badge&logo=Azure&logoColor=blue">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>
-      <td>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      </td>      
-    </tr>       
-  </tbody>
-</table>
+- 🚀 SISPROM II — Microfrontend + Microservices (Angular + Spring Boot)
+- 🗄️ RoteadorDB — Data integration across Oracle, PostgreSQL and MySQL
+- 🏛️ Government systems (CELEPAR) — critical data and HR systems
+- 📊 Multiple enterprise integrations and legacy modernization projects
 
+---
 
-### 10.   Projetos [Projects]
-[🏛️ Preventiva (Delphi - Manutenções Preventivas]<br>
-[✅ SGBDO - PHP + MySql ]<br>
-[🐦 LPNA - Cold Fusion + MySql]<br>
-[❌ RoteadorDB - Python + Oracle + PgSql + MySql ]<br>
-[🚀 SISPROM II - Micro FrontEnd Angular + Microservices Spring Boot]<br>
-[🚀 e outros ...]<br>
+## 🤝 Connect with Me
 
- 
+[LinkedIn](https://www.linkedin.com/in/evaldo-lima-175067219/)  
+[GitHub](https://github.com/limainfo)  
+[Telegram](https://t.me/limainfo_gmail)  
+Email: limainfo@gmail.com  
+
+---
+
+## 🧠 Soft Skills
+
+- Analytical Thinking  
+- Problem Solving  
+- Adaptability  
+- Reliability  
+- Continuous Learning  
+- Team Collaboration  
+
+---
+
+## 🎯 Career Focus
+
+Currently focused on:
+
+- Software Quality Engineering  
+- Enterprise Architecture  
+- Distributed Systems  
+- Government and Mission-Critical Systems  
